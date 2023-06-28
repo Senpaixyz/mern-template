@@ -1,0 +1,10 @@
+
+REACT AUTH/ ACCESS CONTROL : https://css-tricks.com/react-authentication-access-control/
+LINK: https://temp-mail.org/en/
+
+EMAIL GENERATOR CRED: comof86273@akoption.com
+PASSWORD: Asdf1234
+
+
+JWT TOKEN NODEJS MONGOOSE
+https://www.ultimateakash.com/blog-details/Ii0zPGAKYAo=/How-to-Implement-JWT-Authentication-in-Node.js-Using-Mongoose-2022
